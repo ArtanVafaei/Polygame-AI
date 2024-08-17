@@ -21,8 +21,8 @@ We utilize a Deep Q-Network with three convolutional layers and two linear layer
 Throughout our training of DQN agents on two Atari games, we observed fluctuations in the return as the agents explored their environments. However, with an increasing number of executed steps, we saw consistent growth in the cumulative rewards across all games. The following graphs illustrate this trend, plotting the agents’ cumulative rewards against the number of steps for Atari Breakout and Space Invaders.
 
 <div align="center">
-  <img height="219" alt="Breakout Results" src="https://github.com/user-attachments/assets/11dd8726-3a09-40f5-b15e-a24601bec61a">
-  <img height="219" alt="Space Invaders Results" src="https://github.com/user-attachments/assets/5fe5fc96-a979-49f1-9c90-809ccffeb4b8">
+  <img height="183" alt="Breakout Results" src="https://github.com/user-attachments/assets/11dd8726-3a09-40f5-b15e-a24601bec61a">
+  <img height="183" alt="Space Invaders Results" src="https://github.com/user-attachments/assets/5fe5fc96-a979-49f1-9c90-809ccffeb4b8">
 </div>
 
 ## Conclusion
