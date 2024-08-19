@@ -36,8 +36,24 @@ By training our agent on two Atari games, we observed its ability to adapt to a 
 - [Dr. Anjum Chida](https://profiles.utdallas.edu/anjum.chida) - Faculty Advisor
 
 ## References
-[1]  Antonoglou, I., Graves, A., Kavukcuoglu, K., Mnih, V., Silver, D., Riedmiller, M., Wierstra, D., (2013). Playing Atari with Deep Reinforcement Learning. arXiv preprint arXiv:1312.5602.
+[1] Antonoglou, I., Graves, A., Kavukcuoglu, K., Mnih, V., Silver, D., Riedmiller, M., Wierstra, D., (2013). Playing Atari with Deep Reinforcement Learning. arXiv preprint arXiv:1312.5602.
 
 [2] Czarnecki, W., Espeholt, L., Hessel, M., Schmitt S., Soyer, H., & van Hasselt, H. (2018). Multi‐task Deep Reinforcement Learning with PopArt. arXiv preprint arXiv:1809.04474.
 
 [3] Espeholt et al, IMPALA: Scalable Distributed Deep‐RL with Importance Weighted Actor‐Learner Architectures, ICML 2018.
+
+## Get Started
+Prerequisites:
+- Python >=3.7.1,<3.11
+
+To run experiments locally, give the following a try:
+
+```bash
+git clone https://github.com/ArtanVafaei/Polygame-AI.git && cd cleanrl
+
+# core dependencies
+pip install -r requirements/requirements.txt
+
+# open another terminal and enter `cd cleanrl/cleanrl`
+tensorboard --logdir runs
+```
