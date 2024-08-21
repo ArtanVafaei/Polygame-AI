@@ -55,7 +55,7 @@ Prerequisites:
 To run experiments locally, give the following a try:
 
 ```bash
-git clone https://github.com/ArtanVafaei/Polygame-AI.git && cd cleanrl
+git clone https://github.com/ArtanVafaei/Polygame-AI.git && cd Polygame-AI
 
 # core dependencies
 pip install -r requirements/requirements.txt
