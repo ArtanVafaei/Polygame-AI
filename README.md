@@ -52,7 +52,8 @@ To run experiments locally, give the following a try:
 git clone https://github.com/ArtanVafaei/Polygame-AI.git && cd cleanrl
 
 # core dependencies
-pip install -r requirements.txt
+pip install -r requirements/requirements.txt
+pip install -r requirements/requirements-atari.txt
 
 # open another terminal and enter `cd cleanrl/cleanrl`
 tensorboard --logdir runs
