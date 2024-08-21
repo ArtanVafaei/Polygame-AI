@@ -1,5 +1,11 @@
 # Polygame AI: Multi-Task Deep Reinforcement Learning in Atari
 
+## Table of Contents
+- [Poster](#poster)
+- [Introduction](#introduction)
+- [Results](#results)
+- [Getting Started](#getting-started)
+
 ## Poster
 ![Polygame AI Poster](https://github.com/user-attachments/assets/a81a4425-1919-41e6-a218-60f55c2484bf)
 
@@ -42,7 +48,7 @@ By training our agent on two Atari games, we observed its ability to adapt to a 
 
 [3] Espeholt et al, IMPALA: Scalable Distributed Deep‐RL with Importance Weighted Actor‐Learner Architectures, ICML 2018.
 
-## Get Started
+## Getting Started
 Prerequisites:
 - Python >=3.7.1,<3.11
 
