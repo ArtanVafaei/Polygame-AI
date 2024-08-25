@@ -66,3 +66,7 @@ python main.py
 # open another terminal and enter `cd cleanrl/cleanrl`
 tensorboard --logdir runs
 ```
+To use experiment tracking with wandb, run:
+```bash
+wandb login # only required for the first time
+```
