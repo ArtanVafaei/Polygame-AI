@@ -61,6 +61,8 @@ git clone https://github.com/ArtanVafaei/Polygame-AI.git && cd Polygame-AI
 pip install -r requirements/requirements.txt
 pip install -r requirements/requirements-atari.txt
 
+python main.py
+
 # open another terminal and enter `cd cleanrl/cleanrl`
 tensorboard --logdir runs
 ```
