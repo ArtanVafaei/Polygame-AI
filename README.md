@@ -3,6 +3,8 @@
 ## Table of Contents
 - [Poster](#poster)
 - [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Model](#model)
 - [Results](#results)
 - [Getting Started](#getting-started)
 
