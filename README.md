@@ -7,6 +7,7 @@
 - [Model](#model)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Contributors](#contributors)
 - [Getting Started](#getting-started)
 
 ## Poster
