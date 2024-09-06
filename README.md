@@ -8,6 +8,7 @@
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Contributors](#contributors)
+- [References](#references)
 - [Getting Started](#getting-started)
 
 ## Poster
