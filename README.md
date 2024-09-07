@@ -47,11 +47,13 @@ By training our agent on two Atari games, we observed its ability to adapt to a 
 - [Dr. Anjum Chida](https://profiles.utdallas.edu/anjum.chida) - Faculty Advisor
 
 ## References
-[1] Antonoglou, I., Graves, A., Kavukcuoglu, K., Mnih, V., Silver, D., Riedmiller, M., Wierstra, D., (2013). Playing Atari with Deep Reinforcement Learning. arXiv preprint arXiv:1312.5602.
+[1] Antonoglou, I., Graves, A., Kavukcuoglu, K., Mnih, V., Silver, D., Riedmiller, M., Wierstra, D. (2013). Playing Atari with Deep Reinforcement Learning. arXiv preprint arXiv:1312.5602.
 
 [2] Czarnecki, W., Espeholt, L., Hessel, M., Schmitt S., Soyer, H., & van Hasselt, H. (2018). Multi‐task Deep Reinforcement Learning with PopArt. arXiv preprint arXiv:1809.04474.
 
 [3] Espeholt et al, IMPALA: Scalable Distributed Deep‐RL with Importance Weighted Actor‐Learner Architectures, ICML 2018.
+
+[4] Araújo, J., Braga, J., Chakraborty, D., Dossa, J., Fernand, S., Huang, S., Mehta, K., Ye, C. (2022). CleanRL: High-quality Single-file Implementations of Deep Reinforcement Learning Algorithms. arXiv preprint arXiv:1312.5602.
 
 ## Getting Started
 Prerequisites:
